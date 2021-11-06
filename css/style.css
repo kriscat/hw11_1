@@ -122,3 +122,8 @@ a {
     font-size: 19px;
     margin-top: 5px;
 }
+
+.button1:hover {
+    background: rgb(125, 226, 48);
+    border-bottom-color: rgb(76, 145, 23);
+}
